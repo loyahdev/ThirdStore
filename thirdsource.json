@@ -216,6 +216,17 @@
       "tintColor": "0080fd",
       "title": "ThirdStore Development Started",
       "url": "https://discord.gg/iflux"
+    },
+    {
+      "appID": "com.thirdteam.ThirdStore",
+      "caption": "The best Third Party App Store with Seamless Sideloading, extensive App Library, No Revokes, Great User Interface, No Ads, etc.",
+      "date": "2024-01-03",
+      "identifier": "thirdstore-development-started",
+      "imageURL": "https://media.discordapp.net/attachments/1144049525963632760/1192039556875288606/IMG_5072.png?ex=65a7a059&is=65952b59&hm=14858c039a8b8feed9c971ec63fb8a6e70a8ba0fcad949094847eaaec9b14a1b&=&format=webp&quality=lossless&width=1410&height=792",
+      "notify": true,
+      "tintColor": "0080fd",
+      "title": "ThirdStore Development Started",
+      "url": "https://discord.gg/iflux"
     }
   ]
 }
