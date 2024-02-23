@@ -1,0 +1,210 @@
+{
+  "identifier": "com.thirdteam.ThirdSource",
+  "name": "ThirdSource",
+  "iconURL": "https://media.discordapp.net/attachments/1181404941521272983/1192588356794712186/IMG_5063.png?ex=65a99f75&is=65972a75&hm=5e04bd8666aa7abe1741d8f1e9f7f7f42b40819179eaf12e60d28462dd80d7c0&=&format=webp&quality=lossless&width=1386&height=1386", 
+  "headerURL": "https://media.discordapp.net/attachments/1181404941521272983/1192588356794712186/IMG_5063.png?ex=65a99f75&is=65972a75&hm=5e04bd8666aa7abe1741d8f1e9f7f7f42b40819179eaf12e60d28462dd80d7c0&=&format=webp&quality=lossless&width=1386&height=1386", 
+  "website": "https://quarksources.github.io/",
+  "apiVersion": "v2", 
+  "subtitle": "Contains tweaked apps, utility apps, cracked apps, jailbreak apps and more.", 
+  "description": "Find all of your favourite apps suplied and maintained by yours truly the ThirdStore Team.",
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.dry05.filzaescaped11-12",
+      "developerName": "Bas vT",
+      "downloadURL": "https://web.archive.org/web/20230418221755/https://basvtdevelopments.com/download.php?file=FilzaEscaped16.ipa",
+      "iconURL": "https://i.imgur.com/VsEGbQN.png",
+      "localizedDescription": "It's just normal Filza but for jailed iPhones running iOS 12.1.3 - 16.1. This is possible using the Psychic Paper exploit to gain greater file access on stock iOS. Since the exploit used here was patched in iOS 13.5, do not expect many further updates to this application and it will likely never work the same on iOS 13.5 and up.",
+      "name": "Filza Escaped",
+      "screenshotURLs": [
+        "https://i.imgur.com/KBkDKkN.png"
+      ],
+      "size": 2184796,
+      "subtitle": "iOS 12-16.1 file manager for jailed iPhones.",
+      "tintColor": "d5ad0b",
+      "version": "3.9",
+      "versionDate": "2023-01-09",
+      "versionDescription": "iOS 16/16.1 support."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.flyinghead.Flycast",
+      "developerName": "Flyinghead",
+      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.2/Flycast-2.2.ipa",
+      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+      "localizedDescription": "Flycast is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.\nInformation about configuration and supported features can be found on TheArcadeStriker's [flycast wiki](https://github.com/TheArcadeStriker/flycast-wiki/wiki).",
+      "name": "FlyCast",
+      "screenshotURLs": [
+        "https://i.imgur.com/47KjD5a.png",
+        "https://i.imgur.com/MfhD1h1.png",
+        "https://i.imgur.com/wO88IVP.png"
+      ],
+      "size": 15815921,
+      "subtitle": "Dreamcast, Naomi and Atomiswave emulator.",
+      "tintColor": "9b54fd",
+      "version": "v2.2",
+      "versionDate": "2023-10-28T12:40:02+02:00",
+      "versionDescription": "Sega SystemSP and VF.NET."
+    },
+    {
+      "beta": true,
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+      "developerName": "OatmealDome",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-3.2.1b1-213.ipa",
+      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
+      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
+      "name": "DolphiniOS (Public Beta)",
+      "screenshotURLs": [
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
+      ],
+      "size": 80291610,
+      "subtitle": "Test the latest DolphiniOS.",
+      "tintColor": "ffbb3d",
+      "version": "3.2.1b1",
+      "versionDate": "2022-07-05T22:00:00.0000000Z",
+      "versionDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.antique.Limon",
+      "developerName": "Jarrod Norwell (Antique)",
+      "downloadURL": "https://emuplace.app/emulators/limon/ipas/Limon_v1.0.8.3%20(3).ipa",
+      "iconURL": "https://limonemulator.com/wp-content/uploads/2023/11/Limon-Emulator-icon.png",
+      "localizedDescription": "Limón is the worlds first Nintendo 3DS emulator for iPad and iPhone built on top of Citra making use of the experimental Vulkan renderer by GPUcode through MoltenVK, written in Objective-C and Swift",
+      "name": "Limón",
+      "screenshotURLs": [
+        "https://i.imgur.com/AhhhDIK.png",
+        "https://i.imgur.com/u05omA7.png"
+      ],
+      "size": 19537516,
+      "subtitle": "Nintendo 3DS emulator for iPad and iPhone",
+      "tintColor": "FFCC00",
+      "version": "1.0.8.3",
+      "versionDate": "2023-11-20",
+      "versionDescription": "Fixed Audio Output\nFixed audio output by reverting the Citra core to a previous version where it was working fully\n\nAdded Extended Virtual Addressing\nRenewed Apple Developer account allowing access to the Extended Virtual Addressing entitlement, this should help performance but will need to be tested"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
+      "developerName": "OatmealDome",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
+      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\\n\\nPlease note that devices with A8 processors and older are not compatible.",
+      "name": "DolphiniOS",
+      "screenshotURLs": [
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
+      ],
+      "size": 80253902,
+      "subtitle": "GameCube and Wii games on the go.",
+      "tintColor": "41cdff",
+      "version": "3.2.1",
+      "versionDate": "2022-09-11T22:00:00.0000000Z",
+      "versionDescription": "This update contains the following changes:\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.zurac.OldOS",
+      "developerName": "zzanehip",
+      "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+      "iconURL": "https://raw.githubusercontent.com/zzanehip/The-OldOS-Project/master/OldOS/OldOS/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "localizedDescription": "OldOS is a testament to the days of yesteryear, showcasing what iOS once was ten years ago. The ethos of the app is to merge the technologies of today with a pixel-perfect recreation of the user experience of the past. The vast majority of apps in OldOS are fully functional — meaning they seamlessly integrate with the data on your phone to deliver a live, emulator-esque experience. What does this mean? Well, you can play your music in iPod, get directions in Maps, surf the web in Safari, view the current weather in Weather, and much more. By the same token, no shortcuts were taken in fully fleshing out the operating system. You can change your background, adjust settings, search apps, et cetera. There are a few apps still not ready for primetime but don't worry, they're coming soon.\n\nWith OldOS, you no longer need to worry about securing a legacy iPhone to experience nostalgia — it's available on your daily driver.\n\nPart of the goal with OldOS is to enable anyone to understand how iOS works and demonstrate just how powerful SwiftUI truly is. For that reason, the entire app is open-sourced — enabling developers to learn about, modify, and add to the app. I thought building this over my last six or so months in high school and sharing it with the world would be a fun and productive endeavor.\n\nSpecial Features:\n* 🧑‍💻 Built almost entirely using SwiftUI.\n* 🎨 Designed to be as close to pixel-perfect as possible.\n* 📱 Fully functional, perhaps even usable as a second OS.\n* ❤️ A testament to the work of Apple employees of both the past and the present.\n* 🗺️ Fully open source for all to learn, modify, and build on.",
+      "name": "OldOS",
+      "screenshotURLs": [
+        "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_1.jpg",
+        "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_2.jpg",
+        "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_3.jpg",
+        "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_4.jpg",
+        "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_5.jpg"
+      ],
+      "size": 88173533,
+      "subtitle": "OldOS is a testament to the days of iOS 4.",
+      "tintColor": "181818",
+      "version": "1.0.18",
+      "versionDate": "2021-11-23T19:01:20Z",
+      "versionDescription": "# IPA V1.0 Build 18\n\n1.0 (18):\n- Mail is here! This is a full-blown email client, no ifs, ands, or buts\n- View mailboxes, read emails, move emails, manage inbox, and send emails\n- Fixes to YouTube backend\n- Other bug fixes"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
+      "developerName": "Zhuowei",
+      "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
+      "iconURL": "https://i.imgur.com/ODvSw7D.png",
+      "localizedDescription": "An app that removes the three app limit for free provisioning. Hit Go just before installing apps. Should work on iOS 16.1.2 and below / iOS 15.7.1 and below.\n\nThis is very limited:\n\nApps still expire after a week\n\nThey still do not get arbitrary entitlements\n2022 They still must be signed. It's probably not going to be that useful. It's meant more as a demo of what you can do with MacDirtyCow.",
+      "name": "WDBRemoveThreeAppLimit",
+      "screenshotURLs": [
+        "https://i.imgur.com/6pajtgW.png"
+      ],
+      "size": 88800,
+      "subtitle": "Removes three app limit from AltStore!",
+      "tintColor": "404040",
+      "version": "1.0",
+      "versionDate": "2023-02-16",
+      "versionDescription": "Initial release."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.rileytestut.AltStore",
+      "developerName": "Riley Testut",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_7.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
+      "name": "AltStore",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/277757391-76c02f48-be2a-485a-ba75-277480c99356.jpeg",
+        "https://user-images.githubusercontent.com/705880/277757303-ee0b7695-0e7d-4a93-8b25-4fbbbd3cb745.PNG",
+        "https://user-images.githubusercontent.com/705880/277757263-ef612879-0314-4464-a8f4-103e1f22fbb1.png",
+        "https://user-images.githubusercontent.com/705880/277757445-450618d1-6005-445e-bfd4-7c75387e990b.PNG",
+        "https://user-images.githubusercontent.com/705880/277757220-ebbf42dc-5153-4e2d-9ff4-4c25ad367941.PNG",
+        "https://user-images.githubusercontent.com/705880/277757419-f8067301-61f3-4eae-bbd1-be1bf2a1c05c.PNG"
+      ],
+      "size": 2184796,
+      "subtitle": "An alternative App Store for iOS.",
+      "tintColor": "018084",
+      "version": "1.7",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "NEW (Active Apps) Widget (iOS 17+). View remaining days for ALL active apps from Home Screen. Refresh apps directly from home screen by tapping countdown timers (IMPROVED) Shortcuts. Converted existing Refresh All Apps shortcut into App Shortcut. Available by default in App Shortcuts section of Shortcuts app. Displays accurate progress when refreshing apps via Shortcuts app with Widgets. Updated existing home screen widget to support refreshing apps by tapping countdown (iOS 17+). Fully compatible with macOS Sonoma (FIXED). Fixed AltJIT on iOS 17*. Fixed updating apps with manually removed extensions (e.g. uYou+). Fixed not refreshing AltStore last when refreshing via Shortcut. Fixed Error Log not displaying all detailed info for certain errors. Requires AltServer 1.7 (macOS)."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "developerName": "SideStore Team",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa",
+      "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
+      "localizedDescription": "SideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
+      "name": "SideStore",
+      "screenshotURLs": [
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-light.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-light.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"
+      ],
+      "size": 9195339,
+      "subtitle": "SideStore is an alternative app store for non-jailbroken devices.",
+      "tintColor": "A405FA",
+      "version": "1.3b2",
+      "versionDate": "2023-11-27T13:30:00Z",
+      "versionDescription": "Happy November! Since we had to do a quick fix this update. We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - Clear cache button to help with the large size issues. \n\n - Fix: Fix AppID Crash \n\n - Version in settings showing as develop \n\n - Added Timeout Feature so when you install an app. Your device will not time out and mess up the install. \n\n - Remove the heavy reliance on Info.plist for UDID. \n\n - Better formatted dates so for example instead of it being 0 days it'll say 19 hours/30 minutes. \n\n - fix: fix AltWidget AppGroup Issue. \n\n - fix: Use forked libplist"
+    }
+  ],
+  "news": [
+    {
+      "appID": "com.thirdteam.ThirdStore",
+      "caption": "The best Third Party App Store with Seamless Sideloading, extensive App Library, No Revokes, Great User Interface, No Ads, etc.",
+      "date": "2024-01-03",
+      "identifier": "thirdstore-development-started",
+      "imageURL": "https://media.discordapp.net/attachments/1144049525963632760/1192039556875288606/IMG_5072.png?ex=65a7a059&is=65952b59&hm=14858c039a8b8feed9c971ec63fb8a6e70a8ba0fcad949094847eaaec9b14a1b&=&format=webp&quality=lossless&width=1410&height=792",
+      "notify": true,
+      "tintColor": "0080fd",
+      "title": "ThirdStore Development Started",
+      "url": "https://discord.gg/iflux"
+    }
+  ]
+}
