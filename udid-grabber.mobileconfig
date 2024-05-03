@@ -18,7 +18,7 @@
         <key>PayloadOrganization</key>
         <string>thirdstore.app</string>
         <key>PayloadDisplayName</key>
-        <string>ThirdStore Sideloading Device Registration</string>
+        <string>ThirdStore Sideloading UDID Grabber</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
@@ -26,7 +26,7 @@
         <key>PayloadIdentifier</key>
         <string>loyahdev.thirdstoresideloading.udid-service</string>
         <key>PayloadDescription</key>
-        <string>ThirdStore Sideloading Device Registration</string>
+        <string>ThirdStore Sideloading UDID Grabber</string>
         <key>PayloadType</key>
         <string>Profile Service</string>
     </dict>
