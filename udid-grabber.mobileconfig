@@ -7,7 +7,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>https://udid.website/getudid</string>
+            <string>http://localhost:8080/receive</string>
         <key>DeviceAttributes</key>
         <array>
             <string>UDID</string>
