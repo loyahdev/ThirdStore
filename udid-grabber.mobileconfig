@@ -6,7 +6,7 @@
     <array>
         <dict>
             <key>URL</key>
-            <string>http://localhost:8080/receive</string>
+            <string>http://localhost:1800/receive</string>
             <key>DeviceAttributes</key>
             <array>
                 <string>UDID</string>
