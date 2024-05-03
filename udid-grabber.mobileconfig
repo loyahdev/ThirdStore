@@ -4,42 +4,34 @@
 <dict>
     <key>PayloadContent</key>
     <array>
+        <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>http://localhost:8080/receive</string>
-            <key>DeviceAttributes</key>
-            <array>
-                <string>UDID</string>
-                <string>IMEI</string>
-                <string>ICCID</string>
-                <string>VERSION</string>
-                <string>PRODUCT</string>
-            </array>
-            <key>PayloadType</key>
-            <string>Profile Service</string>
-            <key>PayloadVersion</key>
-            <integer>1</integer>
-            <key>PayloadIdentifier</key>
-            <string>com.loyahdev.profile-service</string>
-            <key>PayloadUUID</key>
-            <string>291e5928-e89b-19d2-a456-426655440000</string>
-            <key>PayloadOrganization</key>
-            <string>Nocturna</string>
-        </dict>
+            <string>https://udid.website/getudid</string>
+        <key>DeviceAttributes</key>
+        <array>
+            <string>UDID</string>
+            <string>DEVICE_NAME</string>
+            <string>VERSION</string>
+            <string>PRODUCT</string>
+            <string>MAC_ADDRESS_EN0</string>
+            <string>IMEI</string>
+            <string>ICCID</string>
+        </array>
     </array>
-    <key>PayloadType</key>
-    <string>Configuration</string>
+    <key>PayloadOrganization</key>
+    <string>MapleSign</string>
+    <key>PayloadDisplayName</key>
+    <string>Device Information (UDID)</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
-    <key>PayloadIdentifier</key>
-    <string>com.loyahdev.thirdstore.config</string>
     <key>PayloadUUID</key>
-    <string>291e5928-e89b-19d2-a456-426655440001</string>
-    <key>PayloadDisplayName</key>
-    <string>ThirdStore UDID Collector</string>
+    <string>BDD0F593-5B98-47FF-A0A4-4B98E30CE451</string>
+    <key>PayloadIdentifier</key>
+    <string>ms.com.udidwebsite.getUDID</string>
     <key>PayloadDescription</key>
-    <string>This is a custom configuration profile to collect your devices UDID for sideloading inside ThirdStore.</string>
-    <key>PayloadOrganization</key>
-    <string>Nocturna</string>
+    <string>Getting your iDevices UDID automagically. Profile autodeletes after installation. From your friends at MapleSign.</string>
+    <key>PayloadType</key>
+    <string>Profile Service</string>
 </dict>
 </plist>
