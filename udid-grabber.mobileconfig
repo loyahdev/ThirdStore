@@ -1,45 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-    <key>PayloadContent</key>
-    <array>
+    <dict>
+        <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>https://loyahdev.me/localudid</string>
+            <string>https://loyahdev.me/localudid/</string>
             <key>DeviceAttributes</key>
             <array>
-                <string>UDID</string>
                 <string>IMEI</string>
-                <string>ICCID</string>
-                <string>VERSION</string>
+                <string>UDID</string>
                 <string>PRODUCT</string>
+                <string>VERSION</string>
+                <string>SERIAL</string>
             </array>
-            <key>PayloadType</key>
-            <string>Profile Service</string>
-            <key>PayloadVersion</key>
-            <integer>1</integer>
-            <key>PayloadIdentifier</key>
-            <string>com.loyahdev.profile-service</string>
-            <key>PayloadUUID</key>
-            <string>291e5928-e89b-19d2-a456-426655440000</string>
-            <key>PayloadOrganization</key>
-            <string>Nocturna</string>
         </dict>
-    </array>
-    <key>PayloadType</key>
-    <string>Configuration</string>
-    <key>PayloadVersion</key>
-    <integer>1</integer>
-    <key>PayloadIdentifier</key>
-    <string>com.loyahdev.thirdstore.config</string>
-    <key>PayloadUUID</key>
-    <string>291e5928-e89b-19d2-a456-426655440001</string>
-    <key>PayloadDisplayName</key>
-    <string>ThirdStore UDID Collector</string>
-    <key>PayloadDescription</key>
-    <string>This is a custom configuration profile to collect your devices UDID for sideloading inside ThirdStore.</string>
-    <key>PayloadOrganization</key>
-    <string>Nocturna</string>
-</dict>
+        <key>PayloadOrganization</key>
+        <string>thirdstore.app</string>
+        <key>PayloadDisplayName</key>
+        <string>ThirdStore Sideloading Device Registration</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadUUID</key>
+        <string>E4079F18-490E-4B23-8F81-3907C92933A5</string>
+        <key>PayloadIdentifier</key>
+        <string>loyahdev.thirdstoresideloading.udid-service</string>
+        <key>PayloadDescription</key>
+        <string>ThirdStore Sideloading Device Registration</string>
+        <key>PayloadType</key>
+        <string>Profile Service</string>
+    </dict>
 </plist>
