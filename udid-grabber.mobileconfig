@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>http://localhost:1800/receive</string>
+            <string>https://thirdstore-data-collect.loyahdevapp.workers.dev</string>
             <key>DeviceAttributes</key>
             <array>
                 <string>IMEI</string>
